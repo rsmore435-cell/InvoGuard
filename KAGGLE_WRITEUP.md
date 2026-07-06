@@ -7,7 +7,7 @@
 
 ## Submission Details
 - **Project Name**: InvoGuard
-- **Submission Track**: Security & Compliance / Business Process Automation
+- **Submission Track**: Agents for Business
 - **Author**: rsmore435
 - **Code Repository**: [https://github.com/rsmore435-cell/InvoGuard](https://github.com/rsmore435-cell/InvoGuard)
 
