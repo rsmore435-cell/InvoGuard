@@ -1,0 +1,12 @@
+INVOICE
+Vendor: Globex
+Invoice #: INV-2026-002
+Date: 2026-07-06
+
+Line Items:
+- Consulting: 20 hours @ $200.00 each -> Total: $4000.00
+
+Subtotal: $4000.00
+Tax Rate: 8% (0.08)
+Tax Amount: $320.00
+Total Amount: $4320.00

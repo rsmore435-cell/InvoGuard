@@ -1,0 +1,13 @@
+INVOICE
+Vendor: Acme Corp
+Invoice #: INV-2026-004
+Date: 2026-07-06
+
+Line Items:
+- Widget A: 10 units @ $10.00 each -> Total: $100.00
+- Service B: 5 hours @ $150.00 each -> Total: $750.00
+
+Subtotal: $850.00
+Tax Rate: 5% (0.05)
+Tax Amount: $42.50
+Total Amount: $9999.00

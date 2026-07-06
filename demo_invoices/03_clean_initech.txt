@@ -1,0 +1,12 @@
+INVOICE
+Vendor: Initech
+Invoice #: INV-2026-003
+Date: 2026-07-06
+
+Line Items:
+- Stapler Red: 5 units @ $15.00 each -> Total: $75.00
+
+Subtotal: $75.00
+Tax Rate: 10% (0.10)
+Tax Amount: $7.50
+Total Amount: $82.50
