@@ -160,7 +160,7 @@ def sanitization_node(ctx: Context, node_input: Any):
 DocumentParserAgent = LlmAgent(
     name="DocumentParserAgent",
     model=Gemini(
-        model="gemini-2.0-flash-lite",
+        model="gemini-2.0-flash",
         retry_options=types.HttpRetryOptions(attempts=3),
     ),
     instruction="""You are a B2B Invoice Document Extraction specialist.
@@ -177,7 +177,7 @@ Do not perform calculations yourself, just extract what is written on the docume
 AuditorAgent = LlmAgent(
     name="AuditorAgent",
     model=Gemini(
-        model="gemini-2.0-flash-lite",
+        model="gemini-2.0-flash",
         retry_options=types.HttpRetryOptions(attempts=3),
     ),
     instruction="""You are an Invoice Compliance Auditor.
